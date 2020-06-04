@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.9447384d.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.3bbfe36d.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.3bbfe36d.chunk.js.map",
-    "runtime-main.js": "/react-tutorial/static/js/runtime-main.3c738b8a.js",
-    "runtime-main.js.map": "/react-tutorial/static/js/runtime-main.3c738b8a.js.map",
-    "static/js/2.721aeaa8.chunk.js": "/react-tutorial/static/js/2.721aeaa8.chunk.js",
-    "static/js/2.721aeaa8.chunk.js.map": "/react-tutorial/static/js/2.721aeaa8.chunk.js.map",
-    "index.html": "/react-tutorial/index.html",
-    "precache-manifest.ce71d0df3f4c22a811bfa3517e03fbf5.js": "/react-tutorial/precache-manifest.ce71d0df3f4c22a811bfa3517e03fbf5.js",
-    "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.9447384d.chunk.css.map": "/react-tutorial/static/css/main.9447384d.chunk.css.map",
-    "static/js/2.721aeaa8.chunk.js.LICENSE.txt": "/react-tutorial/static/js/2.721aeaa8.chunk.js.LICENSE.txt"
+    "main.css": "/react-basics-tutorial-tania/static/css/main.9447384d.chunk.css",
+    "main.js": "/react-basics-tutorial-tania/static/js/main.3bbfe36d.chunk.js",
+    "main.js.map": "/react-basics-tutorial-tania/static/js/main.3bbfe36d.chunk.js.map",
+    "runtime-main.js": "/react-basics-tutorial-tania/static/js/runtime-main.087a76a3.js",
+    "runtime-main.js.map": "/react-basics-tutorial-tania/static/js/runtime-main.087a76a3.js.map",
+    "static/js/2.721aeaa8.chunk.js": "/react-basics-tutorial-tania/static/js/2.721aeaa8.chunk.js",
+    "static/js/2.721aeaa8.chunk.js.map": "/react-basics-tutorial-tania/static/js/2.721aeaa8.chunk.js.map",
+    "index.html": "/react-basics-tutorial-tania/index.html",
+    "precache-manifest.32f6a3c759aa3c0266677f8b7d9d7109.js": "/react-basics-tutorial-tania/precache-manifest.32f6a3c759aa3c0266677f8b7d9d7109.js",
+    "service-worker.js": "/react-basics-tutorial-tania/service-worker.js",
+    "static/css/main.9447384d.chunk.css.map": "/react-basics-tutorial-tania/static/css/main.9447384d.chunk.css.map",
+    "static/js/2.721aeaa8.chunk.js.LICENSE.txt": "/react-basics-tutorial-tania/static/js/2.721aeaa8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c738b8a.js",
+    "static/js/runtime-main.087a76a3.js",
     "static/js/2.721aeaa8.chunk.js",
     "static/css/main.9447384d.chunk.css",
     "static/js/main.3bbfe36d.chunk.js"
